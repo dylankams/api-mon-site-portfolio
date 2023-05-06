@@ -11,7 +11,7 @@ $ npm install
 ```bash
 # development
 $ npm run start ou npm start
-#Ouvrir le lien [http://localhost:3000](http://localhost:3001) dans votre navigateur pour voir l'application.
+# Ouvrir le lien http://localhost:3001 dans votre navigateur pour voir l'application.
 
 # watch mode
 $ npm run start:dev
