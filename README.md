@@ -1,5 +1,4 @@
-# api-mon-site-portfolio
-Api NestJs de mon site portfolio
+# Guide de démarrage de l'API
 
 ## Installation
 
@@ -7,11 +6,12 @@ Api NestJs de mon site portfolio
 $ npm install
 ```
 
-## Running the app
+## commande pour démarrer l'application
 
 ```bash
 # development
 $ npm run start
+#Ouvrir le lien [http://localhost:3000](http://localhost:3001) dans votre navigateur pour voir l'application.
 
 # watch mode
 $ npm run start:dev
